@@ -1,0 +1,7 @@
+@import url('colors.css');
+
+body{margin: 0px;} 
+
+section{
+    background-color: var(--primary);
+}
