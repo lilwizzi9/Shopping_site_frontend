@@ -3,5 +3,14 @@
 body{margin: 0px;} 
 
 section{
-    background-color: var(--primary);
+    background-color: var(--bg);
+    color: var(--fg);
+    padding: 20px 8vw;
 }
+
+.flex{
+    display: flex;
+}
+
+
+
